@@ -14,7 +14,7 @@ struct Hero : Identifiable, Codable {
     let name : String
 }
 
-let superMan = Hero(image: "superman", actor: "Clark Joseph Kent", name: "Superman")
+let ironMan = Hero(image: "ironman", actor: "Tony stark", name: "Iron Man")
 let hulk = Hero(image: "hulk", actor: "Dr. Bruce Banner", name: "Hulk")
 let wonderWomen = Hero(image: "wonderwomen", actor: "Princess Diana of Themyscira", name: "Wonder Women")
 let spiderMan = Hero(image: "spiderman", actor: "Peter Parker", name: "Spider Man")

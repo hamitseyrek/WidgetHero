@@ -13,6 +13,7 @@
 		5EB0F44127BAE4B9007A9932 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EB0F44027BAE4B9007A9932 /* Preview Assets.xcassets */; };
 		5EB0F44827BAE5B2007A9932 /* Hero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB0F44727BAE5B2007A9932 /* Hero.swift */; };
 		5EB0F44A27BAF32D007A9932 /* CircularImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB0F44927BAF32D007A9932 /* CircularImageView.swift */; };
+		5EB0F44C27BAF47C007A9932 /* HeroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB0F44B27BAF47C007A9932 /* HeroView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		5EB0F44027BAE4B9007A9932 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5EB0F44727BAE5B2007A9932 /* Hero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero.swift; sourceTree = "<group>"; };
 		5EB0F44927BAF32D007A9932 /* CircularImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularImageView.swift; sourceTree = "<group>"; };
+		5EB0F44B27BAF47C007A9932 /* HeroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5EB0F43B27BAE4B7007A9932 /* ContentView.swift */,
 				5EB0F44727BAE5B2007A9932 /* Hero.swift */,
 				5EB0F44927BAF32D007A9932 /* CircularImageView.swift */,
+				5EB0F44B27BAF47C007A9932 /* HeroView.swift */,
 				5EB0F43D27BAE4B9007A9932 /* Assets.xcassets */,
 				5EB0F43F27BAE4B9007A9932 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				5EB0F44A27BAF32D007A9932 /* CircularImageView.swift in Sources */,
 				5EB0F43A27BAE4B7007A9932 /* WidgetHeroApp.swift in Sources */,
 				5EB0F44827BAE5B2007A9932 /* Hero.swift in Sources */,
+				5EB0F44C27BAF47C007A9932 /* HeroView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
